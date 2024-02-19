@@ -12,8 +12,19 @@ const questions = [
 function writeToFile(fileName, data) {
 }
 
-// function to initialize program
+// function to initialize program and prompt questions for users
 function init() {
+    inquirer
+    .prompt([
+      {
+        name: "Title",
+        message: "What is the title of the project? ",
+      },
+    ])
+    .then((answers) => {
+      console.info("Answer:", answers.Title);
+      console.log(generateMarkdown(answers));
+    });
 
 }
 
