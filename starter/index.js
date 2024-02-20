@@ -11,37 +11,48 @@ const questions = [
 // function to write README file
 function writeToFile(fileName, data) {
 }
+let data = "This is a read me app genereator";
+fs.writeFile("Readme.md", data, (err) => {
+  // In case of a error throw err.
+  if (err) throw err;
+});
 
 // function to initialize program and prompt questions for users
 function init() {
     inquirer
     .prompt([
       {
+        type: "input",
         name: "Title",
         message: "What is the title of the project? ",
       },
       {
+        type: "input",
         name: "Description",
         message: "What is the description of the project? ",
       },
       {
+        type: "input",
         name: "Installation",
         message: "What is the installation of the project? ",
       },
       {
+        type: "input",
         name: "Usage",
         message: "What is the usage information of the project? ",
       },
       {
+        type: "input",
         name: "Contributing",
         message: "What is the contribution guildlines? ",
       },
       {
+        type: "input",
         name: "Tests",
         message: "Please provide testing instructions? ",
       },
       {
-        type: "checkbox",
+        type: "list",
         name: "License",
         message: "What type of License does the project has? ",
         choices: [
