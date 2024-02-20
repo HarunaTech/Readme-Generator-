@@ -18,7 +18,7 @@ const questions = [
   {
     type: "input",
     name: "Installation",
-    message: "What is the installation of the project? ",
+    message: "What command should be used for the project installation? ",
   },
   {
     type: "input",
@@ -33,7 +33,7 @@ const questions = [
   {
     type: "input",
     name: "Tests",
-    message: "Please provide testing instructions? ",
+    message: "Please provide testing instructions. What command should be run to run tests? ",
   },
   {
     type: "list",

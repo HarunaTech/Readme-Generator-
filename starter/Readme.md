@@ -1,9 +1,9 @@
-# fghjkl
-  https://img.shields.io/badge/license-Apache License 2.0-blue
+# Readme Generator
+  https://img.shields.io/badge/license-MIT-blue
 
 
 ## Description
-rtyuiop
+Readme
 
 ## Table of Contents
 
@@ -15,22 +15,22 @@ rtyuiop
 * [Questions](#questions)
 
 ## Installation
-rtyuio
+npm i 
 
 ## Usage
-rtyuifdfghi
+npm 
 
 ## Contributing
-dfghj
+nothing 
 
 ## Tests
-dftyu
+npm test 
 
 ## License
-Apache License 2.0
+MIT
 
 ## Questions
-For further enquiries, please contact me by email dftyuiuyfyui
-Kindly have a look at the my Github repo for more info https://github.com/dtyuiuyfyui
+For further enquiries, please contact me by email ben@gmail.com
+Kindly have a look at the my Github repo for more info https://github.com/benT
 
 
