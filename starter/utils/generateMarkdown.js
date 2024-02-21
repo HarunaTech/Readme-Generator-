@@ -33,7 +33,8 @@ ${data.Tests}
 ${data.License}
 
 ## Questions
-For further enquiries, please contact me by email ${data.EmailQuestion}
+For further enquiries, please contact me by email ${data.EmailQuestion}.  
+
 Kindly have a look at the my Github repo for more info https://github.com/${data.GithubQuestion}
 
 

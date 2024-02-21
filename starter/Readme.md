@@ -1,9 +1,9 @@
-# Readme Generator
-  https://img.shields.io/badge/license-MIT-blue
+# Readme
+  https://img.shields.io/badge/license-Apache License 2.0-blue
 
 
 ## Description
-Readme
+Readme App Generator 
 
 ## Table of Contents
 
@@ -15,22 +15,23 @@ Readme
 * [Questions](#questions)
 
 ## Installation
-npm i 
+npm i
 
 ## Usage
-npm 
+usage
 
 ## Contributing
-nothing 
+guildlines
 
 ## Tests
-npm test 
+npm test
 
 ## License
-MIT
+Apache License 2.0
 
 ## Questions
-For further enquiries, please contact me by email ben@gmail.com
-Kindly have a look at the my Github repo for more info https://github.com/benT
+For further enquiries, please contact me by email haruna@gmail.com.  
+
+Kindly have a look at the my Github repo for more info https://github.com/harunaTech
 
 
